@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">おみくじ！</string>
+    <string name="bt_action">占う！</string>
+    <string name="contents1">"今夜は熟睡の予感。"</string>
+    <string name="contents2">大吉!!この勢いに乗っていくとしようか!</string>
+    <string name="contents3">良い運気。</string>
+    <string name="contents4">まあまあ運気が良い。</string>
+    <string name="contents5">仕事を早く片付け、アフター5を楽しめる。</string>
+    <string name="contents6">通勤電車で座れる。</string>
+    <string name="contents7">給料アップ、臨時ボーナスがある！かも？</string>
+    <string name="contents8">残業が続く。体調管理に気をつけよ！</string>
+    <string name="contents9">寝不足に注意しましょう。</string>
+</resources>
